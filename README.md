@@ -12,7 +12,7 @@ Create stunning and responsive email campaigns with this HTML-based email templa
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Open the `index.html` file in your preferred code editor.
+2. Open the `responsive_email_template.html` file in your preferred code editor.
 3. Customize the template by editing the HTML and CSS within the `<style>` tags.
 4. Replace the placeholder content with your own text, images, and links.
 5. Test the email template by sending test emails to various email clients to ensure it displays correctly.
